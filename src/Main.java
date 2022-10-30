@@ -14,7 +14,7 @@ public class Main {
             }
             System.out.println(" ");
         }
-        for (int i=0;i<=n;i++) {
+        for (int i=1;i<=n;i++) {
             for (int a= n; a > (n - i); a--) {
                 System.out.print(" ");
             }
